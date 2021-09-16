@@ -1,0 +1,235 @@
+/wiz/qifan/workroom.c line 15: parse error before £
+/wiz/qifan/workroom.c line 130: Illegal LHS before 
+/wiz/qifan/workroom.c line 130: parse error before 
+/wiz/qifan/workroom.c line 141: Illegal LHS before 
+/wiz/qifan/workroom.c line 141: parse error before 
+/wiz/qifan/workroom.c line 289: End of file in text block at the end of the file
+/wiz/qifan/workroom.c line 289: parse error at the end of the file
+/wiz/qifan/workroom.c line 289: End of file in text block at the end of the file
+/wiz/qifan/workroom.c line 289: parse error at the end of the file
+/wiz/qifan/workroom.c line 288: End of file in text block at the end of the file
+/wiz/qifan/workroom.c line 288: parse error at the end of the file
+/wiz/qifan/workroom.c line 288: End of file in text block at the end of the file
+/wiz/qifan/workroom.c line 288: parse error at the end of the file
+/wiz/qifan/workroom.c line 5: parse error before ;
+/wiz/qifan/workroom.c line 290: End of file in text block at the end of the file
+/wiz/qifan/workroom.c line 290: parse error at the end of the file
+/wiz/qifan/workroom.c line 289: End of file in text block at the end of the file
+/wiz/qifan/workroom.c line 289: parse error at the end of the file
+/wiz/qifan/workroom.c line 136: End of file in text block at the end of the file
+/wiz/qifan/workroom.c line 136: parse error at the end of the file
+/wiz/qifan/workroom.c line 98: parse error before ¬
+/wiz/qifan/workroom.c line 130: Illegal LHS before 
+/wiz/qifan/workroom.c line 130: parse error before 
+/wiz/qifan/workroom.c line 141: Illegal LHS before 
+/wiz/qifan/workroom.c line 141: parse error before 
+/wiz/qifan/workroom.c line 98: parse error before ¬
+/wiz/qifan/workroom.c line 130: Illegal LHS before 
+/wiz/qifan/workroom.c line 130: parse error before 
+/wiz/qifan/workroom.c line 141: Illegal LHS before 
+/wiz/qifan/workroom.c line 141: parse error before 
+/wiz/qifan/workroom.c line 108: parse error before ¬
+/wiz/qifan/workroom.c line 136: Illegal LHS before 
+/wiz/qifan/workroom.c line 136: parse error before 
+/wiz/qifan/workroom.c line 147: Illegal LHS before 
+/wiz/qifan/workroom.c line 147: parse error before 
+/wiz/qifan/master_bu.c line 88: Warning: Unused local variable 'name' before 
+/wiz/qifan/master_bu.c line 88: Warning: Unused local variable 'new_name' before 
+/wiz/qifan/master_bu.c line 91: Undefined variable 'name' before  this_player()->quer
+/wiz/qifan/master_bu.c line 91: Illegal lvalue before  this_player()->quer
+/wiz/qifan/master_bu.c line 92: Undefined variable 'new_name' before  prename[random(size
+/wiz/qifan/master_bu.c line 92: Illegal lvalue before  prename[random(size
+/wiz/qifan/master_bu.c line 92: Undefined variable 'prename' before random(sizeof(prenam
+/wiz/qifan/master_bu.c line 98: Undefined variable 'me' before query("id"));
+/wiz/qifan/master_bu.c line 93: Undefined variable 'prename' before random(sizeof(prenam
+/wiz/qifan/master_bu.c line 99: Undefined variable 'me' before query("id"));
+/wiz/qifan/master_bu.c line 102: parse error before 
+/wiz/qifan/master_bu.c line 93: Undefined variable 'prename' before random(sizeof(prenam
+/wiz/qifan/master_bu.c line 99: Undefined variable 'me' before query("id"));
+/wiz/qifan/robot-judge.c line 137: Illegal to redefine 'nomask' function "kill_ob" before 
+/wiz/qifan/feixue-liantian.c line 64: parse error before 
+/wiz/qifan/feixue-liantian.c line 100: Illegal LHS before 
+/wiz/qifan/feixue-liantian.c line 102: Reserved type name unexpected. before unarmed_parry_msg = 
+/wiz/qifan/feixue-liantian.c line 102: parse error before unarmed_parry_msg = 
+/wiz/qifan/feixue-liantian.c line 104: Illegal LHS before 
+/wiz/qifan/feixue-liantian.c line 104: Warning: Expression has no side effects, and the value is unused before 
+/wiz/qifan/feixue-liantian.c line 106: Reserved type name unexpected. before (object weapon)
+/wiz/qifan/master_bu.c line 93: Undefined variable 'prename' before random(sizeof(prenam
+/wiz/qifan/master_bu.c line 99: Undefined variable 'me' before query("id"));
+/wiz/qifan/master_bu.c line 99: parse error before  " + ob->query("id")
+/wiz/qifan/master_bu.c line 119: End of file in string at the end of the file
+/wiz/qifan/master_bu.c line 98: parse error before  " + ob->query("id")
+/wiz/qifan/master_bu.c line 118: End of file in string at the end of the file
+/wiz/qifan/gaiming.c line 52: Undefined variable 'HIY' before NOR,
+/wiz/qifan/gaiming.c line 52: parse error before NOR,
+/wiz/qifan/gaiming.c line 62: Illegal LHS before 
+/wiz/qifan/gaiming.c line 62: parse error before 
+/wiz/qifan/gaiming.c line 35: Undefined variable 'link_ob' before  me->query_temp("lin
+/wiz/qifan/gaiming.c line 35: Illegal lvalue before  me->query_temp("lin
+/wiz/qifan/gaiming.c line 38: Undefined variable 'HIY' before NOR,
+/wiz/qifan/gaiming.c line 38: parse error before NOR,
+/wiz/qifan/gaiming.c line 48: Illegal LHS before 
+/wiz/qifan/gaiming.c line 48: parse error before 
+/wiz/qifan/liandan/obj/baicaoxian1.c line 55: Warning: Unused local variable 'corpse' before the end of line
+/wiz/qifan/liandan/obj/baicaoxian1.c line 55: Warning: Unused local variable 'i' before the end of line
+/wiz/qifan/liandan/obj/baicaoxian1.c line 55: Warning: Unused local variable 'exp' before the end of line
+/wiz/qifan/liandan/obj/baicaoxian1.c line 55: Warning: Unused local variable 'pot' before the end of line
+/wiz/qifan/liandan/obj/baicaoxian1.c line 55: Warning: Unused local variable 'dao' before the end of line
+/wiz/qifan/liandan/obj/baicaoxian1.c line 117: Warning: Unused local variable 'i' before the end of file
+/wiz/qifan/liandan/obj/baicaoxian1.c line 117: Warning: Unused local variable 'eff_dx' before the end of file
+/wiz/qifan/liandan/obj/bcx1.c line 55: Warning: Unused local variable 'corpse' before the end of line
+/wiz/qifan/liandan/obj/bcx1.c line 55: Warning: Unused local variable 'i' before the end of line
+/wiz/qifan/liandan/obj/bcx1.c line 55: Warning: Unused local variable 'exp' before the end of line
+/wiz/qifan/liandan/obj/bcx1.c line 55: Warning: Unused local variable 'pot' before the end of line
+/wiz/qifan/liandan/obj/bcx1.c line 55: Warning: Unused local variable 'dao' before the end of line
+/wiz/qifan/liandan/obj/bcx1.c line 117: Warning: Unused local variable 'i' before the end of file
+/wiz/qifan/liandan/obj/bcx1.c line 117: Warning: Unused local variable 'eff_dx' before the end of file
+/wiz/qifan/liandan/baihuagu22.c line 3: Cannot #include baihuagu.h before the end of file
+/wiz/qifan/liandan/baihuagu12.c line 3: Cannot #include baihuagu.h before the end of file
+/wiz/qifan/liandan/baihuagu32.c line 3: Cannot #include baihuagu.h before the end of file
+/wiz/qifan/liandan/baihuagu11.c line 3: Cannot #include baihuagu.h before the end of file
+/wiz/qifan/liandan/baihuagu12.c line 3: Cannot #include baihuagu.h before the end of file
+/wiz/qifan/liandan/baihuagu12.c line 3: Cannot #include baihuagu.h before the end of file
+/wiz/qifan/liandan/baihuagu12.c line 3: Cannot #include baihuagu.h before the end of file
+/wiz/qifan/edit.c line 3: Cannot #include /doc/help.h before the end of line
+/wiz/qifan/obj/liuhua-sword_book.c line 6: parse error before (600);
+/wiz/qifan/tangbook/xiaoting.c line 4: parse error before  ROOM;
+/wiz/qifan/liandan/baihuagu12.c line 3: Cannot #include baihuagu.h before the end of file
+/wiz/qifan/liandan/baihuagu12.c line 3: Cannot #include baihuagu.h before the end of file
+/wiz/qifan/robot-judge.c line 137: Illegal to redefine 'nomask' function "kill_ob" before 
+/wiz/qifan/tangmen/npc/tangfuren.c line 29: Undefined variable 'ask_lian' before ),
+/wiz/qifan/tangmen/npc/tangfuren.c line 29: parse error before ),
+/wiz/qifan/tangmen/npc/tangfuren.c line 45: Illegal LHS before 
+/wiz/qifan/tangmen/npc/tangfuren.c line 45: parse error before 
+/wiz/qifan/tangmen/npc/tangfuren.c line 55: Illegal LHS before 
+/wiz/qifan/tangmen/npc/tangfuren.c line 55: parse error before 
+/wiz/qifan/tangmen/npc/tangfuren.c line 29: Undefined variable 'ask_lian' before ),
+/wiz/qifan/tangmen/npc/tangfuren.c line 29: parse error before ),
+/wiz/qifan/tangmen/npc/tangfuren.c line 45: Illegal LHS before 
+/wiz/qifan/tangmen/npc/tangfuren.c line 45: parse error before 
+/wiz/qifan/tangmen/npc/tangfuren.c line 55: Illegal LHS before 
+/wiz/qifan/tangmen/npc/tangfuren.c line 55: parse error before 
+/wiz/qifan/tangmen/npc/tangfuren.c line 64: parse error before  1;
+/wiz/qifan/tangmen/npc/tangfuren.c line 89: parse error before  0;
+/wiz/qifan/tangmen/npc/tangfuren.c line 89: parse error before  0;
+/wiz/qifan/edit.c line 3: Cannot #include /doc/help.h before the end of line
+/wiz/qifan/tang-force.c line 94: parse error before 0010]{
+/wiz/qifan/lianthrow.c line 39: Undefined variable 'kee_cost' before  (-1) * (5 + random(
+/wiz/qifan/lianthrow.c line 39: Illegal lvalue before  (-1) * (5 + random(
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'wiz_flag'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'attribute'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'improve_att'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'dbase'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'tmp_dbase'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'default_ob'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'doors'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'origin_clean_up'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "query_wiz_flag" before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "set_flag" before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "check_object" before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "make_inventory" before 
+/wiz/qifan/tangmen/yaopu1.c line 23: parse error before  __DIR__"yaopu5",
+/wiz/qifan/tangmen/yaopu1.c line 43: Illegal LHS before 
+/wiz/qifan/tangbook/tangzhong.c line 31: Undefined variable 'ask_me' before ),
+/wiz/qifan/tangbook/tangzhong.c line 31: parse error before ),
+/wiz/qifan/tangbook/tangzhong.c line 47: Illegal LHS before 
+/wiz/qifan/tangbook/tangzhong.c line 47: parse error before 
+/wiz/qifan/tangbook/tangzhong.c line 128: Illegal LHS before 
+/wiz/qifan/tangbook/tangzhong.c line 128: parse error before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Warning: Redeclaration of global variable 'wiz_flag'. before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Warning: Redeclaration of global variable 'attribute'. before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Warning: Redeclaration of global variable 'improve_att'. before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Warning: Redeclaration of global variable 'dbase'. before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Warning: Redeclaration of global variable 'tmp_dbase'. before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Warning: Redeclaration of global variable 'default_ob'. before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Warning: Redeclaration of global variable 'doors'. before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Warning: Redeclaration of global variable 'origin_clean_up'. before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Illegal to redefine 'nomask' function "query_wiz_flag" before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Illegal to redefine 'nomask' function "set_flag" before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Illegal to redefine 'nomask' function "check_object" before 
+/wiz/qifan/tangbook/yaopu1.c line 9: Illegal to redefine 'nomask' function "make_inventory" before 
+/wiz/qifan/tangbook/yaopu1.c line 23: parse error before  __DIR__"yaopu5",
+/wiz/qifan/tangbook/yaopu1.c line 43: Illegal LHS before 
+/wiz/qifan/tangbook/yaopu1.c line 17: parse error before  __DIR__"yaopu5",
+/wiz/qifan/tangbook/yaopu1.c line 37: Illegal LHS before 
+/wiz/qifan/tangbook/yaopu1.c line 37: parse error before 
+/wiz/qifan/tangbook/yaopu1.c line 38: Illegal LHS before 
+/wiz/qifan/tangbook/yaopu1.c line 38: parse error before 
+/wiz/qifan/tangbook/yaopu1.c line 17: parse error before  __DIR__"yaopu5",
+/wiz/qifan/tangbook/yaopu1.c line 37: Illegal LHS before 
+/wiz/qifan/tangbook/yaopu1.c line 37: parse error before 
+/wiz/qifan/tangbook/yaopu1.c line 38: Illegal LHS before 
+/wiz/qifan/tangbook/yaopu1.c line 38: parse error before 
+/wiz/qifan/tangbook/yaopu1.c line 51: Undefined variable 'YEL' before NOR, me);
+/wiz/qifan/tangbook/yaopu1.c line 51: parse error before NOR, me);
+/wiz/qifan/tangbook/yaopu1.c line 51: parse error before , me);^M
+/wiz/qifan/tangbook/yaopu1.c line 51: parse error before ,);
+/wiz/qifan/tangbook/yaopu1.c line 51: parse error before );
+/wiz/qifan/tangbook/yaopu1.c line 51: parse error before )
+/wiz/qifan/tangbook/yaopu1.c line 51: Undefined variable 'message_vision' before NOR
+/wiz/qifan/tangbook/yaopu1.c line 51: parse error before NOR
+/wiz/qifan/tangbook/yaopu1.c line 62: parse error before 
+/wiz/qifan/tangbook/yaopu1.c line 51: parse error before );
+/wiz/qifan/tangbook/yaopu1.c line 51: parse error before ),
+/wiz/qifan/tangbook/yaopu1.c line 51: parse error before ),
+/wiz/qifan/tangbook/yaopu1.c line 51: parse error before );
+/wiz/qifan/newliandan/yaochu.c line 67: Warning: Unused local variable 'ob' before the end of file
+/wiz/qifan/newliandan/yaochu.c line 67: Warning: Unused local variable 'ob' before the end of file
+/wiz/qifan/newliandan/yaochu.c line 67: Warning: Unused local variable 'ob' before the end of file
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'wiz_flag'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'attribute'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'improve_att'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'dbase'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'tmp_dbase'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'default_ob'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'doors'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'origin_clean_up'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "query_wiz_flag" before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "set_flag" before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "check_object" before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "make_inventory" before 
+/wiz/qifan/tangmen/yaopu1.c line 23: parse error before  __DIR__"yaopu5",
+/wiz/qifan/tangmen/yaopu1.c line 43: Illegal LHS before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'wiz_flag'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'attribute'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'improve_att'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'dbase'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'tmp_dbase'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'default_ob'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'doors'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Warning: Redeclaration of global variable 'origin_clean_up'. before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "query_wiz_flag" before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "set_flag" before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "check_object" before 
+/wiz/qifan/tangmen/yaopu1.c line 9: Illegal to redefine 'nomask' function "make_inventory" before 
+/wiz/qifan/tangmen/yaopu1.c line 23: parse error before  __DIR__"yaopu5",
+/wiz/qifan/tangmen/yaopu1.c line 43: Illegal LHS before 
+/wiz/qifan/newliandan/npc/tangzhong.c line 149: Reserved type name unexpected. before (object who, object 
+/wiz/qifan/newliandan/npc/tangzhong.c line 149: parse error before (object who, object 
+/wiz/qifan/newliandan/obj/yaochu.c line 67: Warning: Unused local variable 'ob' before the end of file
+/wiz/qifan/newliandan/npc/tangzhong.c line 149: Reserved type name unexpected. before (object who, object 
+/wiz/qifan/newliandan/npc/tangzhong.c line 149: parse error before (object who, object 
+/wiz/qifan/newliandan/npc/tangzhong.c line 149: Reserved type name unexpected. before (object who, object 
+/wiz/qifan/newliandan/npc/tangzhong.c line 149: parse error before (object who, object 
+/wiz/qifan/newliandan/npc/tangzhong.c line 149: Reserved type name unexpected. before (object who)
+/wiz/qifan/newliandan/npc/tangzhong.c line 149: parse error before (object who)
+/wiz/qifan/newliandan/npc/tangzhong.c line 149: Reserved type name unexpected. before (object who,object o
+/wiz/qifan/newliandan/npc/tangzhong.c line 149: parse error before (object who,object o
+/wiz/qifan/newliandan/npc/newtz.c line 28: Undefined variable 'ask_me' before ),
+/wiz/qifan/newliandan/npc/newtz.c line 28: parse error before ),
+/wiz/qifan/newliandan/npc/newtz.c line 49: Undefined variable 'who' before )
+/wiz/qifan/newliandan/npc/newtz.c line 49: Illegal LHS before 
+/wiz/qifan/newliandan/npc/newtz.c line 49: parse error before 
+/wiz/qifan/newliandan/npc/newtz.c line 51: Illegal LHS before 
+/wiz/qifan/newliandan/npc/newtz.c line 67: Reserved type name unexpected. before (object who, object 
+/wiz/qifan/newliandan/npc/newtz.c line 67: parse error before (object who, object 
+/wiz/qifan/newliandan/npc/tangyao.c line 67: Reserved type name unexpected. before (object who, object 
+/wiz/qifan/newliandan/npc/tangyao.c line 67: parse error before (object who, object 
+/wiz/qifan/newliandan/npc/tangyao.c line 67: Reserved type name unexpected. before (object who, object 
+/wiz/qifan/newliandan/npc/tangyao.c line 67: parse error before (object who, object 
+/wiz/qifan/newliandan/npc/tangzhong.c line 148: parse error before the end of file
+/wiz/qifan/newliandan/npc/tangzhong.c line 148: parse error before the end of file
+/wiz/qifan/tangmen/npc/tangzhong.c line 147: parse error before the end of file
+/wiz/qifan/purge.c line 29: Undefined variable 'SAVE_EXTENSION' before <0 )
+/wiz/qifan/tangmen/npc/tangfuren.c line 89: parse error before  0;
+/wiz/qifan/tangmen/npc/tangfuren.c line 89: parse error before  0;

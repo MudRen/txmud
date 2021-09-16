@@ -1,0 +1,55 @@
+[wangxm]:
+CLASS( 11 elements
+  "/obj/self/weapon/sword",
+  "[1;33m½ðÉß½£[2;37;0m",
+  "jinshe sword",
+  "Ò»°Ñ½ðÉ«¹ÅÆÓµÄ³¤½££¬¼¸Ìõ½ðÉßÅÌÈÆÆäÉÏ
+",
+  "½ð¹âÒ»ÉÁ¶áÈË¶þÄ¿£¬$N¡°Ë¢¡±µÄÒ»Éù´ÓÑüÖÐ°Î³öÒ»°Ñ$n!
+",
+  "Í»È»½ð¹âÒ»ÉÁ¶øÃð£¬$NÊÕ»Ø$n£¬Á³ÉÏÂ¶³öÒ»Ë¿Î¢Ð¦£¡
+",
+  "steel",
+  39,
+  0,
+  0,
+  0
+ )
+[airuns]:
+CLASS( 11 elements
+  "/obj/self/weapon/sword",
+  "[1;37mÖí[1;31m¿ÚÌõ[2;37;0m",
+  "pig jian",
+  "[22m  Ò»¸ùÑªÁÜÁÜµÄÖí¿ÚÌõ
+[20m  ÉÏÃæÓÐÐ©¸í¸í´ñ´ñµÄ
+[24m  ÕýÔÚÃ°ÖíµÄ¹þÀ®×Ì¡«
+",
+  "$N½«Ò»¸ù$nË¦ÁËË¦ÎÕÔÚÊÖÖÐ¡ª¡ªºÃ¶ñÐÄ°¡£¡
+",
+  "$N½«$nË¦ÁËË¦³ÔÁËÏÂÈ¥¡ª¡ªºÃÏãÒ®£¡
+",
+  "steel",
+  38,
+  0,
+  0,
+  0
+ )
+[liq]:
+CLASS( 11 elements
+  "/obj/self/weapon/sword",
+  "[1;33m½ðÉß½£[2;37;0m",
+  "jinshe sword",
+  "½£¾ÍÈçÊÇÒ»ÌõÉßÅÌÇú¶ø³É£¬ÉßÎ²¹´³É½£±ú
+ ÉßÍ·ÔòÊÇ½£¼â£¬ÉßÉàÉì³ö·Ö²æ£¬½£ÉíÉÏÒ»
+µÀÑªºÛ£¬·¢³ö±ÌÓÍÓÍµÄ°µ¹â£¬¼«ÊÇ¹îÒì¡£
+",
+  "½ð¹âÒ»ÉÁ¶áÈË¶þÄ¿£¬$N¡°Ë¢¡±µÄÒ»Éù´ÓÑüÖÐ°Î³öÒ»°Ñ$n!
+",
+  "Í»È»½ð¹âÒ»ÉÁ¶øÃð£¬$NÊÕ»Ø$n£¬Á³ÉÏÂ¶³öÒ»Ë¿Î¢Ð¦£¡
+",
+  "steel",
+  39,
+  0,
+  0,
+  0
+ )

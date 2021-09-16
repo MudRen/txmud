@@ -1,0 +1,3 @@
+#/d/phome/hangzhou/aba_home2.c
+dbase (["short":"[1;33m¡¾Á÷¼ÒµÄÕı·¿[1;33m¡¿[2;37;0m","exits":(["up":"/d/phome/hangzhou/aba_home3","south":"/d/phome/hangzhou/aba_home",]),"master_name":"Á÷","master_id":"aba","Safe_Environment":1,"valid_startroom":1,"long":"ËäÈ»ÃÅÅÆÉÏĞ´×ÅÁ÷µÄ´óÔº£¬ÆäÊµÓ¦¸ÃÊÇÁ÷ºÍËûÆŞ×Ó¹²Í¬µÄµØ·½¡£","built_time":1020870776,])
+save_objs ({(/"/d/hangzhou/npc/obj/rose",0,/),(/"/obj/self/weapon/sword",(/"/obj/self/weapon/sword","[1;33mÇáÎè·ÉÑï[2;37;0m","sorry sword","ÕâÊÇÒ»ÑùÃÀÃ¼¸øµÄ±¦Îï£¬±ğÅªÃ»ÁËÅ¶¡£","ÔÆÖĞ½µÏÂÒ»Î¢Ğ¦×ÅµÄÃÀÃ¼£¬¸øÁË$NÒ»Éñ¹â·ÉÑïµÄ$n!","$N´óÉù½Ğ×ÅÊÕ»Ø$n£¬ÌìÉÏÑÌÔÆÍ»Ó¿£¬$nÏòÌìÉÏ·ÉÈ¥¡£","steel",39,0,0,0,/),/),})

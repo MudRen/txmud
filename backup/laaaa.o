@@ -1,0 +1,10 @@
+#/obj/user/user.c
+conditions ([])
+current_damage ([])
+dbase (["str":30,"water":1107,"kee":35,"food":1043,"combat_exp":95,"death":(["num":1,"time":1039290918,]),"startroom":"/d/xueting/inn","title":"ÆÕÍ¨°ÙÐÕ","potential":50,"birthday":1039288214,"race":"ÈËÀà","channel":(["last_chat":1039291702,"chat_count":2,]),"BMKS":1,"con":15,"env":(["brief":2,]),"disable_type":" <»èÃÔ²»ÐÑ>","gin":35,"chblk_menpai":0,"bellicosity":0,"chblk_tx":0,"chblk_chat":0,"second_actions":0,"cor":15,"sen":100,"mud_age":3562,"eff_gin":100,"default_actions":,"max_kee":100,"eff_kee":100,"actions":,"max_sen":100,"eff_sen":100,"max_gin":100,"id":"laaaa","gender":"ÄÐÐÔ","kar":15,"nickname":"¿ª·â[2;37;0m","name":"À­À­À­","per":15,"age":14,"int":30,"channels":({"chat","rumor","menpai","tx",}),"chblk_rumor":0,])
+skills (["caikuang":4,])
+learned (["caikuang":0,])
+skill_map ([])
+all ({})
+my_load_weapon ({})
+credit_point 9500

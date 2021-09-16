@@ -1,0 +1,3 @@
+#/d/phome/kaifeng/qingyuwawa_home2.c
+dbase (["long":"ÕâÊÇÒ»ËùÓÄÑÅµÄĞ¡Öş£¬ÇåÓÄÖ®ÖĞÍ¸³ö¸ß¹ó£¬Ğ¡ÖşÅÔ±ßÊÇÒ»ÌõĞ¡ºÓ£¬ºÓÃæÉÏÓĞÒ»×ù°×ÓñÇúÇÅ¡£","valid_startroom":1,"short":"[1;33m¡¾ÇçÓêÍŞÍŞ¼ÒµÄÕı·¿[1;33m¡¿[2;37;0m","Safe_Environment":1,"master_name":"ÇçÓêÍŞÍŞ","master_id":"qingyuwawa","built_time":1027508577,"exits":(["south":"/d/phome/kaifeng/qingyuwawa_home",]),])
+save_objs ({(/"/d/datong/npc/obj/biduzhu",0,/),(/"/d/datong/npc/obj/biduzhu",0,/),(/"/d/datong/npc/obj/biduzhu",0,/),(/"/obj/mine/iron_steel",17700,/),(/"/obj/mine/iron_steel",78800,/),})

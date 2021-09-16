@@ -1,0 +1,6 @@
+#/wiz/aiai/treasure/tr_sword.c
+dbase (["name":"[47;10m»ðÖ®¶Ì½£[2;37;0m","gift_limit":(["0":"0=10188",]),"material":"steel","gift_gem":(["0":(["name":"none",]),]),"value":1395,"long":"ÕâÊÇÒ»°Ñ´Ö²ÚµÄ[47;10m»ðÖ®¶Ì½£[2;37;0m£¬ÊÖ¸ÐÒ»°ã¡£","tr_ident":1,"tr_info":(["gems":1,"t":0,"i":-1,"file":"/wiz/aiai/treasure/saves/sword1070023026","a":0,"autoload":1,"l":1,]),"id":"fire sword","gift_apply":(["0":"2=7",]),"weapon_prop":(["damage":13,]),])
+w_bad "Ëð»µµÄ"
+w_break "¶ÏµôµÄ"
+a_bad "Ëð»µµÄ"
+a_break "ÆÆÀÃµÄ"

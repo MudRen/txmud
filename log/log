@@ -1,0 +1,6 @@
+/obj/npc/obj/steel_fork.c line 5: parse error before ;
+/d/houjizhen/npc/obj/mask.c line 6: parse error before ;
+/d/feiyu/npc/cheng.c line 76: Warning: Unused local variable 'obj' before the end of line
+/d/feiyu/npc/huoxx.c line 61: Warning: Unused local variable 'ob' before the end of line
+/d/feiyu/npc/sun.c line 61: Warning: Unused local variable 'obj' before the end of line
+/d/taxue/dan1.c line 39: Warning: Non-void functions must return a value. before 
